@@ -1,4 +1,4 @@
-package ru.bobrysheva.homework.week5;
+package ru.bobrysheva.classwork.week5;
 
 public abstract class AbstractAnimal {
     abstract void voice();
