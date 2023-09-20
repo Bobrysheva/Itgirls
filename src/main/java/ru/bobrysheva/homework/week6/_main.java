@@ -1,5 +1,5 @@
 package ru.bobrysheva.homework.week6;
-
+import java.util.*;
 public class _main {
     public static void main(String[] args) {
         System.out.println("Введите температуру целым числом ");
